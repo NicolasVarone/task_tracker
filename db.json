@@ -14,15 +14,15 @@
     },
     {
       "id": 3,
-      "text": "Food Shopping",
-      "day": "Feb 7th at 6:30pm",
-      "reminder": false
-    },
-    {
-      "id": 4,
       "text": "Football Match",
       "day": "Feb 9th at 8:45pm",
       "reminder": true
+    },
+    {
+      "text": "Shopping Food",
+      "day": "Feb 10th at 11:15am",
+      "reminder": false,
+      "id": 4
     }
   ]
 }
