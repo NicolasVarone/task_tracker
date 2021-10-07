@@ -23,6 +23,12 @@
       "day": "Feb 10th at 11:15am",
       "reminder": false,
       "id": 4
+    },
+    {
+      "text": "Code Lesson",
+      "day": "Feb 14th at 8:00am",
+      "reminder": true,
+      "id": 5
     }
   ]
 }
